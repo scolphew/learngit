@@ -7,7 +7,6 @@ Git tracks changes of files.
 添加第二行
 本地第二行
 你好
-12345
-OL添加
+OL添加1
 5553445
 本地添加
